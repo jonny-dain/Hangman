@@ -1,2 +1,3 @@
-# Hangman
-IOS Hangman game built in Swift
+# hangman
+
+A version of the popular game hangman for iOS. 
